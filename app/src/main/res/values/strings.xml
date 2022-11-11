@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task1_20190346</string>
+    <string name="edit_message">Enter message</string>
+    <string name="send_button">Send</string>
+    <string name="display_text"></string>
+
+</resources>
